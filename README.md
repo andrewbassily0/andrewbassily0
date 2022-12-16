@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Job-Board**
 
-- 🌱 I’m currently learning **AWS , Docker , IC/CD**
+- 🌱 I’m currently learning ** React , AWS , Docker , IC/CD**
 
 - 💬 Ask me about **django , python**
 
