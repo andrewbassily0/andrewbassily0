@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Andrew Ashraf BAssily</h1>
-<h3 align="center">IT Operations Specialist and Backend Developer with a Passion for Streamlining Processes. Continuously learning and upskilling in DevOps tools to bridge the gap between operations and development. Let's connect and discuss IT efficiency!</h3>
+# 👋 Hello! I'm Andrew Bassily
 
-- 🌱 I’m currently learning **AWS**
+Welcome to my GitHub space, where code meets creativity and innovation drives every line I write! 
 
-- 💬 Ask me about **Linux Administrator , AWS , python , Django**
+## 🛠️ About Me
 
-- 📫 How to reach me **andrew.bassily@hotmail.com**
+I'm a **DevOps Engineer** and **Backend Developer** with a passion for building scalable infrastructure and clean, efficient code. With a background in **IT operations** and experience with **AWS, Docker, Jenkins, and Ansible**, I love tackling challenges and learning new technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andrewbassily0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewbassily0" height="30" width="40" /></a>
-</p>
+- 🔧 **Skills**: Python, Flask, Django, Terraform, Ansible, Docker, Jenkins, Linux
+- 🌱 **Currently learning**: Advanced cloud orchestration and containerization
+- 🌍 **Fun fact**: I’m always experimenting with new DevOps tools on personal projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewbassily0&show_icons=true&locale=en&layout=compact" alt="andrewbassily0" /></p>
+- **DEPI-ASK**: A fully Dockerized Flask app with Nginx, Gunicorn, Ansible, and Jenkins, complete with Slack notifications.
+- **Job Search API**: Flask API with a modern UI and RapidAPI integration.
+- **JobPost**: Django project as part of freelance work, including PostgreSQL integration.
+
+## 📫 Let’s Connect
+
+Whether it’s to collaborate on an open-source project, explore job opportunities, or chat about the latest in DevOps—feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/andrewbassily/) or drop a message here.
+
+---
+
