@@ -4,17 +4,11 @@ Welcome to my GitHub space, where code meets creativity and innovation drives ev
 
 ## 🛠️ About Me
 
-I'm a **DevOps Engineer** and **Backend Developer** with a passion for building scalable infrastructure and clean, efficient code. With a background in **IT operations** and experience with **AWS, Docker, Jenkins, and Ansible**, I love tackling challenges and learning new technologies.
+DevOps Engineer with nearly two years of experience, proficient in Jenkins, Docker, Ansible, AWS, and Hetzner. I specialize in deploying Django, Flask, Ruby on Rails, NestJS, and Node.js applications for SaaS platforms, e-commerce solutions, and ERP systems. With a strong background in IT operations and automation, I deliver scalable, reliable solutions and streamline workflows. Also available as a freelancer.
 
-- 🔧 **Skills**: Python, Flask, Django, Terraform, Ansible, Docker, Jenkins, Linux
+- 🔧 **Skills**: Python, Flask, Django, Terraform, Ansible, Docker, Jenkins, Linux, Docker, K8s, AWS
 - 🌱 **Currently learning**: Advanced cloud orchestration and containerization
-- 🌍 **Fun fact**: I’m always experimenting with new DevOps tools on personal projects
-
-## 🚀 Projects
-
-- **DEPI-ASK**: A fully Dockerized Flask app with Nginx, Gunicorn, Ansible, and Jenkins, complete with Slack notifications.
-- **Job Search API**: Flask API with a modern UI and RapidAPI integration.
-- **JobPost**: Django project as part of freelance work, including PostgreSQL integration.
+- 🌍 **Fun fact**: I’m always experimenting with new DevOps tools on projects
 
 ## 📫 Let’s Connect
 
