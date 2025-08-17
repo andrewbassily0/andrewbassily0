@@ -1,18 +1,53 @@
-# 👋 Hello! I'm Andrew Bassily
+DevOps Engineer with ≈3 years of hands‑on experience building, shipping, and running applications at scale. I design reliable delivery pipelines, codify infrastructure, and keep systems observable and cost‑efficient. I’ve deployed and operated backends built with Django, Flask, Ruby on Rails, NestJS, and Node.js across cloud and dedicated environments. Also available for freelance work (end‑to‑end DevOps and development).
 
-Welcome to my GitHub space, where code meets creativity and innovation drives every line I write! 
+Cloud & Hosting: AWS, HUAWEI Cloud; dedicated servers at Hetzner, Hostinger, Contabo
 
-## 🛠️ About Me
+Domains: SaaS platforms, e‑commerce, ERP systems
 
-DevOps Engineer with nearly three years of experience, proficient in Jenkins, Docker, Ansible, AWS, and Hetzner. I specialize in deploying Django, Flask, Ruby on Rails, NestJS, and Node.js applications for SaaS platforms, e-commerce solutions, and ERP systems. With a strong background in IT operations and automation, I deliver scalable, reliable solutions and streamline workflows. Also available as a freelancer.
+Mindset: automation‑first, security‑by‑default, documentation‑driven
 
-- 🔧 **Skills**: Python, Flask, Django, Terraform, Ansible, Docker, Jenkins, Linux, Docker, K8s, AWS
-- 🌱 **Currently learning**: Advanced cloud orchestration and containerization
-- 🌍 **Fun fact**: I’m always experimenting with new DevOps tools on projects
+What I Do
 
-## 📫 Let’s Connect
+CI/CD: Jenkins (multibranch pipelines, shared libraries), artifact management, blue‑green/rolling deploys
 
-Whether it’s to collaborate on an open-source project, explore job opportunities, or chat about the latest in DevOps—feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/andrewbassily/) or drop a message here.
+Containers & Orchestration: Docker, Docker Compose, Kubernetes (workloads, Helm, ingress)
 
----
+Infrastructure as Code: Terraform (VPC, ECS/EKS, RDS, S3, IAM), Ansible (idempotent server provisioning)
 
+Reliability & Ops: backups & DR plans, zero‑downtime upgrades, performance tuning, cost optimization
+
+Observability: metrics, logs, and traces with common OSS stacks; proactive alerting & runbooks
+
+Security: least‑privilege IAM, secrets management, image hardening, basic SAST/DAST in pipelines
+
+Tech Stack
+
+Languages: Python • Bash • YAML/JSONFrameworks: Flask • Django • (basic) Node.js/NestJS toolingCI/CD: JenkinsIaC & Config: Terraform • AnsibleContainers: Docker • KubernetesOS & Platforms: Linux • AWS • HUAWEI Cloud • Hetzner • Hostinger • Contabo
+
+Highlights (examples of work I enjoy)
+
+Designing production‑grade CI/CD for containerized services (build, test, scan, deploy, notify)
+
+Building immutable infra on AWS/HUAWEI Cloud with Terraform and Git workflows
+
+Migrating workloads from shared hosting to dedicated Hetzner/Contabo boxes with clean Ansible playbooks
+
+Standing up monitoring & logging so teams get actionable alerts and clear dashboards
+
+Delivering end‑to‑end for small teams: from repo scaffolding to deployment and on‑call docs
+
+Freelance & Availability
+
+I take on freelance engagements for:
+
+Greenfield infra for startups (from zero to production)
+
+Modernizing legacy deployments (Docker/K8s, Terraform/Ansible, CI/CD)
+
+Cost reviews and performance tuning
+
+Feel free to reach out on https://www.linkedin.com/in/andrewbassily
+
+Currently Learning
+
+Advanced cloud orchestration and containerization — refining GitOps practices and better multi‑cluster operations.
