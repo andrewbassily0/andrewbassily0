@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew Bassily 👋 
-### 🚀 Senior DevOps Engineer | Multi-Cloud Architect | Technical Team Lead
+### 🚀 DevOps Engineer | Multi-Cloud Engineer | Driving Scalable Solutions | Freelance Consultant Empowering Tech Growth
 
-[![Typing Raider](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=435&lines=Automating+the+Future;Multi-Cloud+Architect;DevOps+Team+Lead)](https://git.io/typing-svg)
+[![Typing Raider](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=500&lines=Driving+Scalable+Solutions;Multi-Cloud+Architect;DevOps+Consultant)](https://git.io/typing-svg)
 
 An ultra-adaptable **DevOps & Multi-Cloud Engineer** with hands-on experience designing, automating, and operating production-grade infrastructure at scale. I specialize in bridging the gap between high-velocity development and rock-solid, cost-efficient operations.
 
@@ -44,26 +44,37 @@ An ultra-adaptable **DevOps & Multi-Cloud Engineer** with hands-on experience de
 
 ---
 
-## 🌟 Featured Engineering
+## ⚡ Microservices, Automation & Core Architectures
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ AWS Production Infrastructure & Monitoring</h3>
-      <p>A production-ready AWS deployment architecture engineered for high availability, security isolation, and rigorous compliance standards.</p>
+      <h3>📡 Distributed MikroTik Monitoring Ecosystem</h3>
+      <p>A production-grade, containerized microservices architecture built to track, scrape, and visualize real-time network metrics and resource utilization from distributed MikroTik routers seamlessly.</p>
       <p>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square" alt="Terraform">
-        <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square" alt="AWS">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square" alt="Prometheus">
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square" alt="Grafana">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦅 HELK - Advanced Threat Hunting Lab</h3>
-      <p>An enterprise-grade cybersecurity threat hunting and security monitoring laboratory leveraging the Elastic Stack for real-time detection and incident response.</p>
+      <h3>🤖 Intelligent Event-Driven AI Chatbots</h3>
+      <p>Scalable, microservice-powered chatbot workflows engineered for seamless automation, asynchronous communication, and real-time processing across diverse notification layers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square" alt="Elastic">
-        <img src="https://img.shields.io/badge/Security-SIEM-red?style=flat-square" alt="SIEM">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" alt="Node">
+        <img src="https://img.shields.io/badge/Microservices-⚡-blue?style=flat-square" alt="Microservices">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>🖥️ Automated Bare-Metal Server Provisioning & Central Dashboards</h3>
+      <p>End-to-end automated pipeline for bootstrapping physical servers, tuning performance configurations, and deploying consolidated monitoring/management dashboards to deliver single-pane-of-glass infrastructure visibility.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square" alt="Ansible">
+        <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square" alt="Linux">
+        <img src="https://img.shields.io/badge/Dashboards-📊-green?style=flat-square" alt="Dashboards">
       </p>
     </td>
   </tr>
