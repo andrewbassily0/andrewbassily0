@@ -100,6 +100,6 @@ An ultra-adaptable **DevOps & Multi-Cloud Engineer** with hands-on experience de
 I am available for targeted freelance consultations, contract-based infrastructure revamps, and end-to-end DevOps pipeline builds.
 
 - 💬 **Ask me about:** Multi-cloud failover strategies, infrastructure cost optimization, CI/CD tuning, and container security.
-- 📫 **Reach Out:** `your.email@example.com` | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://YOUR_WEBSITE.com)
+- 📫 **Reach Out:** `andrew.bassily@hotmail.com` | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://YOUR_WEBSITE.com)
 
 > 💡 *"Automation is good, so long as you know exactly where to put the machine."* — **Kurt Vonnegut**
