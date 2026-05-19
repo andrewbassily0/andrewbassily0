@@ -39,4 +39,67 @@ An ultra-adaptable **DevOps & Multi-Cloud Engineer** with hands-on experience de
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## ⚡ Microservices, Automation & Core Architectures
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 Distributed MikroTik Monitoring Ecosystem</h3>
+      <p>A production-grade, containerized microservices architecture built to track, scrape, and visualize real-time network metrics and resource utilization from distributed MikroTik routers seamlessly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square" alt="Prometheus">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square" alt="Grafana">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Intelligent Event-Driven AI Chatbots</h3>
+      <p>Scalable, microservice-powered chatbot workflows engineered for seamless automation, asynchronous communication, and real-time processing across diverse notification layers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" alt="Node">
+        <img src="https://img.shields.io/badge/Microservices-⚡-blue?style=flat-square" alt="Microservices">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>🖥️ Automated Bare-Metal Server Provisioning & Central Dashboards</h3>
+      <p>End-to-end automated pipeline for bootstrapping physical servers, tuning performance configurations, and deploying consolidated monitoring/management dashboards to deliver single-pane-of-glass infrastructure visibility.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square" alt="Ansible">
+        <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square" alt="Linux">
+        <img src="https://img.shields.io/badge/Dashboards-📊-green?style=flat-square" alt="Dashboards">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Engineering Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewbassily0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewbassily0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewbassily0&theme=tokyonight&hide_border=true" width="97%" />
+</p>
+
+---
+
+## 💼 Let's Build Something Resilient
+
+I am available for targeted freelance consultations, contract-based infrastructure revamps, and end-to-end DevOps pipeline builds.
+
+- 💬 **Ask me about:** Multi-cloud failover strategies, infrastructure cost optimization, CI/CD tuning, and container security.
+- 📫 **Reach Out:** `your.email@example.com` | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://YOUR_WEBSITE.com)
+
+> 💡 *"Automation is good, so long as you know exactly where to put the machine."* — **Kurt Vonnegut**
